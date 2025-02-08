@@ -1,7 +1,7 @@
 {
         'jay': datetime.datetime(2025, 2, 10),
         'l': datetime.datetime(2025, 1, 29),
-        'yoi': datetime.datetime(2025, 12, 18),
+        'y': datetime.datetime(2025, 12, 18),
         'itil': datetime.datetime(2024, 12, 23),
         'e': datetime.datetime(2025, 1, 10),
         'n': datetime.datetime(2024, 12, 28),
